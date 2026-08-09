@@ -1,0 +1,3 @@
+https://huggingface.co/datasets/lex_glue
+https://archive.ics.uci.edu/
+https://case.law/

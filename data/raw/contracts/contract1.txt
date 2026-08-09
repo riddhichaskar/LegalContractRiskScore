@@ -1,0 +1,18 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into on the Effective Date between the Client and the Service Provider.
+
+1. PAYMENT TERMS  
+The Client agrees to pay all invoices within thirty (30) days of receipt. Any delay in payment shall incur a penalty of 10% per week on the outstanding amount.
+
+2. TERMINATION  
+The Service Provider reserves the right to terminate this Agreement at any time without prior notice if the Client fails to comply with any obligations.
+
+3. LIABILITY  
+The Service Provider shall not be held liable for any indirect, incidental, or consequential damages arising from the use of services.
+
+4. CONFIDENTIALITY  
+Both parties agree to maintain strict confidentiality of all proprietary information and shall not disclose such information to third parties.
+
+5. AUTO-RENEWAL  
+This Agreement shall automatically renew annually unless terminated by either party in writing.

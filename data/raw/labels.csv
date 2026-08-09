@@ -1,0 +1,18 @@
+contract_id,clause,risk_level
+1,"penalty of 10% per week",HIGH
+1,"terminate this Agreement at any time without prior notice",HIGH
+1,"not be held liable for indirect damages",HIGH
+1,"maintain strict confidentiality",LOW
+1,"automatically renew annually",MEDIUM
+
+2,"terminate with a 30-day written notice",MEDIUM
+2,"penalty of ₹50,000",HIGH
+2,"not be responsible for personal losses",HIGH
+2,"binding arbitration",MEDIUM
+2,"salary deductions for delayed attendance",MEDIUM
+
+3,"Payment must be made within 7 days",MEDIUM
+3,"suspension of services",HIGH
+3,"not responsible for data loss",HIGH
+3,"license revoked immediately without notice",HIGH
+3,"automatically renew",MEDIUM

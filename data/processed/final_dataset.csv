@@ -1,0 +1,23 @@
+contract_id,clause,risk_level
+1,service agreement this service agreement agreement is entered into on the effective date between the client and the service provider.,LOW
+1,payment terms the client agrees to pay all invoices within thirty 30 days of receipt.,MEDIUM
+1,any delay in payment shall incur a penalty of 10% per week on the outstanding amount.,HIGH
+1,termination the service provider reserves the right to terminate this agreement at any time without prior notice if the client fails to comply with any obligations.,MEDIUM
+1,"liability the service provider shall not be held liable for any indirect, incidental, or consequential damages arising from the use of services.",HIGH
+1,confidentiality both parties agree to maintain strict confidentiality of all proprietary information and shall not disclose such information to third parties.,LOW
+1,autorenewal this agreement shall automatically renew annually unless terminated by either party in writing.,MEDIUM
+2,employment contract this employment contract is made between employer and employee.,LOW
+2,salary the employee shall receive a fixed monthly salary.,MEDIUM
+2,delayed attendance may result in deductions.,MEDIUM
+2,termination either party may terminate this agreement with a 30day written notice.,MEDIUM
+2,immediate termination may occur in case of misconduct.,LOW
+2,"penalties a penalty of ₹50,000 will be imposed if the employee leaves before completing the minimum contract period.",HIGH
+2,liability the employer shall not be responsible for any personal losses or damages incurred during employment.,HIGH
+2,dispute resolution all disputes shall be resolved through binding arbitration.,MEDIUM
+3,software license agreement this agreement governs the use of the licensed software.,LOW
+3,license the user is granted a nontransferable license to use the software.,LOW
+3,payment payment must be made within 7 days.,MEDIUM
+3,failure to comply may result in suspension of services.,HIGH
+3,data loss the company shall not be responsible for any data loss under any circumstances.,HIGH
+3,termination the license may be revoked immediately without notice if misuse is detected.,HIGH
+3,renewal the license will automatically renew unless canceled prior to the renewal date.,MEDIUM

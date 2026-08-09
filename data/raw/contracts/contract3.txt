@@ -1,0 +1,18 @@
+SOFTWARE LICENSE AGREEMENT
+
+This Agreement governs the use of the licensed software.
+
+1. LICENSE  
+The user is granted a non-transferable license to use the software.
+
+2. PAYMENT  
+Payment must be made within 7 days. Failure to comply may result in suspension of services.
+
+3. DATA LOSS  
+The Company shall not be responsible for any data loss under any circumstances.
+
+4. TERMINATION  
+The license may be revoked immediately without notice if misuse is detected.
+
+5. RENEWAL  
+The license will automatically renew unless canceled prior to the renewal date.

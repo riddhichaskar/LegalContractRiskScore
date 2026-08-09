@@ -1,0 +1,456 @@
+clause,type
+payment must be made within 30 days,PAYMENT
+payment shall be completed within 7 days,PAYMENT
+client agrees to pay all invoices promptly,PAYMENT
+fees must be paid in advance,PAYMENT
+payment is due upon receipt of invoice,PAYMENT
+monthly subscription must be paid before renewal,PAYMENT
+all charges are payable within 14 days,PAYMENT
+customer shall pay the agreed amount on time,PAYMENT
+billing occurs on a monthly basis,PAYMENT
+payment must be processed via bank transfer,PAYMENT
+
+late payment will incur a penalty of 10 percent,PENALTY
+a late fee shall be charged for overdue invoices,PENALTY
+failure to pay will result in additional charges,PENALTY
+penalty applies for delayed payments,PENALTY
+interest will accrue on overdue amounts,PENALTY
+late fees will be added after due date,PENALTY
+non payment results in financial penalties,PENALTY
+delayed payments incur additional cost,PENALTY
+overdue accounts will be penalized,PENALTY
+penalty charges apply after 30 days,PENALTY
+
+the provider shall not be liable for damages,LIABILITY
+company is not responsible for data loss,LIABILITY
+liability is limited to fees paid,LIABILITY
+no liability for indirect damages,LIABILITY
+provider disclaims all liability,LIABILITY
+no responsibility for service failure,LIABILITY
+liability is excluded for external factors,LIABILITY
+damages are limited to contract value,LIABILITY
+no liability for system downtime,LIABILITY
+liability does not extend to third parties,LIABILITY
+
+either party may terminate the agreement,TERMINATION
+contract may be terminated with notice,TERMINATION
+agreement ends upon breach,TERMINATION
+termination may occur anytime,TERMINATION
+contract ends after expiration,TERMINATION
+service may be cancelled by either party,TERMINATION
+termination requires written notice,TERMINATION
+agreement may be ended for cause,TERMINATION
+contract automatically terminates,TERMINATION
+termination occurs upon non compliance,TERMINATION
+
+all information must remain confidential,CONFIDENTIALITY
+data must not be disclosed to third parties,CONFIDENTIALITY
+confidential information must be protected,CONFIDENTIALITY
+non disclosure agreement applies,CONFIDENTIALITY
+data must remain private,CONFIDENTIALITY
+information shall be kept secure,CONFIDENTIALITY
+confidentiality must be maintained at all times,CONFIDENTIALITY
+no sharing of sensitive information,CONFIDENTIALITY
+data protection obligations apply,CONFIDENTIALITY
+private information must not be leaked,CONFIDENTIALITY
+
+developer retains ownership of code,INTELLECTUAL_PROPERTY
+intellectual property belongs to creator,INTELLECTUAL_PROPERTY
+client receives license to use software,INTELLECTUAL_PROPERTY
+ownership remains with provider,INTELLECTUAL_PROPERTY
+copyright belongs to developer,INTELLECTUAL_PROPERTY
+software license is granted to user,INTELLECTUAL_PROPERTY
+ownership transfers after payment,INTELLECTUAL_PROPERTY
+client does not own underlying code,INTELLECTUAL_PROPERTY
+intellectual property rights are reserved,INTELLECTUAL_PROPERTY
+license is non transferable,INTELLECTUAL_PROPERTY
+
+uptime shall be maintained at 99.9 percent,SERVICE
+service availability must be ensured,SERVICE
+system performance must meet requirements,SERVICE
+downtime must be minimized,SERVICE
+service reliability is guaranteed,SERVICE
+uptime is calculated monthly,SERVICE
+system shall remain operational,SERVICE
+service must meet SLA conditions,SERVICE
+availability metrics must be tracked,SERVICE
+system must handle expected load,SERVICE
+
+latency must be below 200 milliseconds,SERVICE
+system must support 5000 requests per second,SERVICE
+error rate must not exceed threshold,SERVICE
+response time must be within limits,SERVICE
+throughput must meet requirements,SERVICE
+performance metrics must be maintained,SERVICE
+service must scale automatically,SERVICE
+backup systems must be available,SERVICE
+disaster recovery must be implemented,SERVICE
+system must ensure high availability,SERVICE
+
+user must not misuse the platform,USAGE
+unauthorized access is prohibited,USAGE
+users shall not reverse engineer system,USAGE
+illegal use of service is prohibited,USAGE
+user must follow usage policies,USAGE
+account sharing is not allowed,USAGE
+user must not upload harmful content,USAGE
+misuse of service is restricted,USAGE
+system must not be exploited,USAGE
+users must comply with rules,USAGE
+
+service is provided as is without warranty,WARRANTY
+no warranties are provided,WARRANTY
+provider disclaims warranties,WARRANTY
+software is delivered without guarantees,WARRANTY
+no assurance is given for performance,WARRANTY
+no warranty of accuracy,WARRANTY
+service has no implied warranties,WARRANTY
+use at your own risk,WARRANTY
+no guarantee of results,WARRANTY
+warranty is limited,WARRANTY
+
+this agreement is effective from date,GENERAL
+terms and conditions apply,GENERAL
+this contract governs relationship,GENERAL
+agreement is binding,GENERAL
+this document defines terms,GENERAL
+contract outlines responsibilities,GENERAL
+agreement applies to all users,GENERAL
+terms are legally enforceable,GENERAL
+this agreement is valid,GENERAL
+contract includes all provisions,GENERAL
+
+recovery point objective shall be less than 15 minutes,SERVICE
+recovery time objective shall be within 4 hours,SERVICE
+backups shall be taken every hour,SERVICE
+service credits apply if uptime drops,SERVICE
+scheduled maintenance is limited,SERVICE
+emergency maintenance may occur,SERVICE
+support response time is defined,SERVICE
+incident response must be quick,SERVICE
+system monitoring must be continuous,SERVICE
+audit logs must be maintained,SERVICE
+
+force majeure events exclude liability,LIABILITY
+provider not liable for natural disasters,LIABILITY
+external outages are not provider responsibility,LIABILITY
+liability excluded for third party failures,LIABILITY
+no liability for internet outages,LIABILITY
+clause,type
+"payment must be settled within 45 days",PAYMENT
+"all invoices are payable within twenty-one days",PAYMENT
+"client shall pay all fees upon project delivery",PAYMENT
+"payment is due exactly 48 hours after service completion",PAYMENT
+"quarterly subscription fees must be paid in advance",PAYMENT
+"the customer will be billed on a net-60 basis",PAYMENT
+"outstanding balances must be cleared by month end",PAYMENT
+"service fees are due prior to account activation",PAYMENT
+"installments must be paid every fourteen days",PAYMENT
+"full compensation is required before source code release",PAYMENT
+"all recurring charges are billed on the first of the month",PAYMENT
+"wire transfers must be completed within 10 business days",PAYMENT
+"initial deposit is due upon execution of this agreement",PAYMENT
+"user shall be invoiced bi-weekly for all labor hours",PAYMENT
+"consulting fees are payable within seven calendar days",PAYMENT
+"late payment will incur a penalty of 15 percent",PENALTY
+"a late fee of fifty dollars shall be charged for overdue invoices",PENALTY
+"failure to pay on time will result in a 2 percent monthly interest",PENALTY
+"penalty of 12 percent applies to all delayed payments",PENALTY
+"overdue amounts will accumulate daily interest charges",PENALTY
+"a flat 500 dollar fine applies to any payment breach",PENALTY
+"delays exceeding 30 days incur a compounded 8 percent penalty",PENALTY
+"non-payment results in a 20 percent surcharge on the total",PENALTY
+"interest at the maximum legal rate applies to late balances",PENALTY
+"reinstatement of service requires a 100 dollar penalty fee",PENALTY
+"a 3 percent transaction fee applies to all late credit card payments",PENALTY
+"late stage payments trigger a mandatory 10 percent fine",PENALTY
+"failure to remit funds results in a structural penalty charge",PENALTY
+"daily penalties of 25 dollars accrue until balance is zero",PENALTY
+"missed milestones result in a 5 percent deduction from future credits",PENALTY
+"the company shall not be liable for any consequential damages",LIABILITY
+"provider is not responsible for any loss of profits",LIABILITY
+"total liability is strictly limited to the last 6 months of fees",LIABILITY
+"no liability shall arise from scheduled service interruptions",LIABILITY
+"the provider disclaims all liability for third party data breaches",LIABILITY
+"aggregate liability shall not exceed the total contract value",LIABILITY
+"contractor is held harmless against all hardware failures",LIABILITY
+"liability for indirect or incidental damages is excluded",LIABILITY
+"maximum damages are capped at 5000 dollars total",LIABILITY
+"provider assumes no responsibility for user-generated content",LIABILITY
+"limitation of liability applies to all claims under this agreement",LIABILITY
+"no party is liable for delays caused by internet outages",LIABILITY
+"indemnification is limited to direct proven losses only",LIABILITY
+"developer disclaims liability for open source software components",LIABILITY
+"liability for punitive damages is waived by both parties",LIABILITY
+"either party may terminate the agreement with 60 days notice",TERMINATION
+"this contract may be terminated for convenience at any time",TERMINATION
+"agreement ends immediately upon any material breach of terms",TERMINATION
+"termination may occur without prior notice for illegal acts",TERMINATION
+"contract shall terminate automatically after a 12 month term",TERMINATION
+"either party may cancel the service with 30 days written notice",TERMINATION
+"termination for cause happens if bugs remain unfixed for 90 days",TERMINATION
+"this mandate expires on the last day of the fiscal year",TERMINATION
+"access will be revoked immediately upon contract termination",TERMINATION
+"mutual agreement is required to terminate this pact early",TERMINATION
+"non-renewal notice must be sent 15 days before expiry",TERMINATION
+"insolvency of either party results in immediate termination",TERMINATION
+"subscription ends if payment is not received within 14 days",TERMINATION
+"service concludes upon successful delivery of all milestones",TERMINATION
+"agreement remains valid until terminated by a majority vote",TERMINATION
+"all technical data must remain strictly confidential",CONFIDENTIALITY
+"parties agree not to disclose any trade secrets or proprietary data",CONFIDENTIALITY
+"confidential information shall not be shared with competitors",CONFIDENTIALITY
+"user data must be kept secure via industry-standard encryption",CONFIDENTIALITY
+"non disclosure agreement applies to all shared project materials",CONFIDENTIALITY
+"confidentiality obligations survive for 5 years after termination",CONFIDENTIALITY
+"all private keys and passwords must be kept confidential",CONFIDENTIALITY
+"recipient shall protect data with a reasonable degree of care",CONFIDENTIALITY
+"marketing strategies discussed are considered confidential",CONFIDENTIALITY
+"breach of confidentiality triggers immediate legal action",CONFIDENTIALITY
+"oral disclosures must be confirmed in writing as confidential",CONFIDENTIALITY
+"employees must sign individual NDAs before accessing code",CONFIDENTIALITY
+"client lists and pricing are deemed highly confidential",CONFIDENTIALITY
+"publicity releases require written consent to maintain secrecy",CONFIDENTIALITY
+"security protocols are protected under this confidentiality clause",CONFIDENTIALITY
+"developer retains exclusive ownership of the source code",INTELLECTUAL_PROPERTY
+"intellectual property rights belong solely to the creator",INTELLECTUAL_PROPERTY
+"client is granted a non-exclusive, non-transferable license",INTELLECTUAL_PROPERTY
+"ownership of all software components remains with the provider",INTELLECTUAL_PROPERTY
+"copyright for all assets belongs to the primary developer",INTELLECTUAL_PROPERTY
+"work-for-hire status is explicitly denied for this project",INTELLECTUAL_PROPERTY
+"derivative works remain the property of the original author",INTELLECTUAL_PROPERTY
+"license to use the software is revoked upon non-payment",INTELLECTUAL_PROPERTY
+"patents emerging from this research belong to the company",INTELLECTUAL_PROPERTY
+"trademark rights are excluded from this software license",INTELLECTUAL_PROPERTY
+"open source libraries used remain under their respective licenses",INTELLECTUAL_PROPERTY
+"ownership transfers only after the final payment is cleared",INTELLECTUAL_PROPERTY
+"background IP remains with the developer at all times",INTELLECTUAL_PROPERTY
+"client receives a perpetual license for internal use only",INTELLECTUAL_PROPERTY
+"any code modifications by the client belong to the developer",INTELLECTUAL_PROPERTY
+"guaranteed service uptime shall be 99.95 percent monthly",SERVICE
+"system availability must be maintained during business hours",SERVICE
+"platform performance will meet the latency standards in Exhibit A",SERVICE
+"service reliability is guaranteed at 99.5 percent for the API",SERVICE
+"downtime shall not exceed 4 hours per calendar month",SERVICE
+"support response time is guaranteed within 60 minutes",SERVICE
+"maintenance will not occur during peak traffic periods",SERVICE
+"server resources will scale to meet user demand automatically",SERVICE
+"uptime is calculated excluding scheduled maintenance windows",SERVICE
+"high availability is provided through redundant data centers",SERVICE
+"backup systems are tested every 30 days for reliability",SERVICE
+"disaster recovery time objective is set at 12 hours",SERVICE
+"the provider commits to a 98 percent success rate on requests",SERVICE
+"emergency patches are applied within 2 hours of discovery",SERVICE
+"monitoring logs are provided to the client for audit purposes",SERVICE
+"user must not misuse the platform for spam or bulk mailing",USAGE
+"unauthorized access to the root directory is strictly prohibited",USAGE
+"users shall not reverse engineer or decompile the system",USAGE
+"platform must not be used for illegal or unethical purposes",USAGE
+"user agrees to follow the acceptable use policy at all times",USAGE
+"sharing of account credentials with third parties is forbidden",USAGE
+"automated scraping is prohibited without a specific API key",USAGE
+"user shall not upload content that infringes on any patent",USAGE
+"excessive bandwidth consumption may result in account throttling",USAGE
+"the service is restricted to one user per registered account",USAGE
+"modification of the underlying CSS/JS is not permitted",USAGE
+"user is responsible for all activity under their login",USAGE
+"compliance with local data laws is required for all users",USAGE
+"vulnerability testing is prohibited unless authorized in writing",USAGE
+"harming the service infrastructure is grounds for a permanent ban",USAGE
+"service is provided strictly as is without any express warranty",WARRANTY
+"no warranties of merchantability are provided for the service",WARRANTY
+"provider disclaims all implied warranties of fitness",WARRANTY
+"software is delivered without any performance guarantees",WARRANTY
+"no assurance is given regarding the accuracy of generated data",WARRANTY
+"the provider does not warrant that the service will be bug-free",WARRANTY
+"beta features are provided with no warranty of any kind",WARRANTY
+"warranty claims must be submitted within 90 days of delivery",WARRANTY
+"developer makes no warranty against third party interference",WARRANTY
+"no verbal warranty shall override this written disclaimer",WARRANTY
+"use of the service is at the sole risk of the user",WARRANTY
+"accuracy of AI feedback is not warranted by the developer",WARRANTY
+"no warranty is made that the software meets legal requirements",WARRANTY
+"limited warranty covers only major functional defects",WARRANTY
+"fitness for a particular purpose is explicitly disclaimed",WARRANTY
+"this agreement is effective starting from the date of execution",GENERAL
+"terms and conditions apply to all current and future users",GENERAL
+"this contract governs the entire professional relationship",GENERAL
+"agreement is binding upon both parties and their successors",GENERAL
+"this document constitutes the entire terms of service",GENERAL
+"amendments to this contract must be made in writing",GENERAL
+"notices shall be sent via registered email to the parties",GENERAL
+"the governing law for this contract is that of Maharashtra",GENERAL
+"any disputes shall be settled through mandatory arbitration",GENERAL
+"severability applies if any clause is found unenforceable",GENERAL
+"this agreement supersedes all prior oral or written pacts",GENERAL
+"force majeure events excuse performance delays",GENERAL
+"no waiver of rights occurs if a breach is ignored once",GENERAL
+"headings are for convenience and do not affect meaning",GENERAL
+"assignment of this contract requires mutual written consent",GENERAL
+"payment is required within 14 business days of invoicing",PAYMENT
+"total project cost is payable in three equal installments",PAYMENT
+"final balance must be settled before the site goes live",PAYMENT
+"late payments accrue interest at 10 percent per annum",PAYMENT
+"subscription renewals are billed automatically every year",PAYMENT
+"service will be suspended if payment is 7 days overdue",PAYMENT
+"consultancy fees are calculated on a net-15 basis",PAYMENT
+"client shall reimburse all pre-approved travel expenses",PAYMENT
+"retainer fees are non-refundable once work has started",PAYMENT
+"payment must be made in US Dollars via wire transfer",PAYMENT
+"overdue invoices trigger a 5 percent administrative fee",PENALTY
+"failure to meet milestones results in a 250 dollar penalty",PENALTY
+"unauthorized use of the API results in a 2000 dollar fine",PENALTY
+"breach of usage limits incurs a double-billing penalty",PENALTY
+"late data submission is penalized at 100 dollars per day",PENALTY
+"developer is not liable for indirect or incidental losses",LIABILITY
+"total liability is capped at 100 percent of the contract price",LIABILITY
+"no liability for loss of data due to user password neglect",LIABILITY
+"provider is held harmless in the event of a cloud outage",LIABILITY
+"consequential damages are excluded from all liability claims",LIABILITY
+"termination occurs automatically if the account is idle for 1 year",TERMINATION
+"client may terminate for convenience with a 15 day notice",TERMINATION
+"immediate termination for any violation of the privacy policy",TERMINATION
+"contract ends once the migration to the new server is complete",TERMINATION
+"all rights to the software cease upon termination of agreement",TERMINATION
+"trade secrets disclosed must be kept confidential forever",CONFIDENTIALITY
+"parties shall not disclose the financial terms of this deal",CONFIDENTIALITY
+"confidentiality covers all source code and design mockups",CONFIDENTIALITY
+"non-disclosure applies to all user feedback and analytics",CONFIDENTIALITY
+"unauthorized disclosure results in a 10000 dollar penalty",CONFIDENTIALITY
+"all custom code developed is the property of the client",INTELLECTUAL_PROPERTY
+"graphics and UI designs are owned by the hiring party",INTELLECTUAL_PROPERTY
+"developer maintains the right to reuse generic code snippets",INTELLECTUAL_PROPERTY
+"the software framework remains the property of the provider",INTELLECTUAL_PROPERTY
+"client owns the data but not the underlying database engine",INTELLECTUAL_PROPERTY
+"uptime is guaranteed at 99.99 percent for the core platform",SERVICE
+"support tickets will be acknowledged within 2 business hours",SERVICE
+"the system will support up to 5000 concurrent users",SERVICE
+"weekly security scans are performed to ensure reliability",SERVICE
+"database backups are performed hourly and stored offsite",SERVICE
+"users are prohibited from using the tool for crypto mining",USAGE
+"re-selling access to the platform is strictly forbidden",USAGE
+"account sharing among multiple employees is not allowed",USAGE
+"users must not upload adult or offensive content",USAGE
+"the system must not be used to bypass web security",USAGE
+"software is provided without any warranty of performance",WARRANTY
+"no guarantee that the software is compatible with all browsers",WARRANTY
+"provider disclaims all warranties of title and non-infringement",WARRANTY
+"no warranty is provided for third-party integrated plugins",WARRANTY
+"the developer does not guarantee specific SEO results",WARRANTY
+"this contract represents the final agreement between parties",GENERAL
+"all disputes shall be heard in the courts of Nashik",GENERAL
+"neither party may assign this contract without permission",GENERAL
+"invalidity of one provision does not affect the rest",GENERAL
+"the agreement is signed electronically via verified software",GENERAL
+"payment for the first phase is due upon signature",PAYMENT
+"maintenance fees are billed on the 15th of each month",PAYMENT
+"all taxes are the responsibility of the purchasing party",PAYMENT
+"refunds are only issued if requested within 24 hours",PAYMENT
+"usage-based billing is calculated at the end of each cycle",PAYMENT
+"overdue accounts will be sent to a collection agency",PENALTY
+"violation of the NDA results in a 5000 dollar fine",PENALTY
+"missed deadlines by the developer result in a 5 percent discount",PENALTY
+"late reporting of security bugs incurs a penalty fee",PENALTY
+"unauthorized logo use results in a 1000 dollar penalty",PENALTY
+"liability is limited to the amount of the last invoice paid",LIABILITY
+"provider is not responsible for hardware theft at client site",LIABILITY
+"client assumes all risk for data stored on local servers",LIABILITY
+"no liability for loss of revenue due to maintenance",LIABILITY
+"damages are limited to direct costs of service restoration",LIABILITY
+"agreement terminates if the business is sold to a third party",TERMINATION
+"either party may exit the contract after a 6 month period",TERMINATION
+"breach of usage terms results in immediate account closure",TERMINATION
+"contract can be paused for up to 30 days once per year",TERMINATION
+"termination does not excuse the payment of outstanding fees",TERMINATION
+"client data is deleted 30 days after contract termination",CONFIDENTIALITY
+"no party shall share the password to the staging server",CONFIDENTIALITY
+"confidentiality applies to all proprietary AI algorithms",CONFIDENTIALITY
+"NDA survives even if the main project is cancelled",CONFIDENTIALITY
+"information in the public domain is not confidential",CONFIDENTIALITY
+"developer owns all rights to the underlying platform architecture",INTELLECTUAL_PROPERTY
+"client has full ownership of the final front-end assets",INTELLECTUAL_PROPERTY
+"trademark usage is limited to the scope of this project",INTELLECTUAL_PROPERTY
+"IP for bug fixes belongs to the original software owner",INTELLECTUAL_PROPERTY
+"the client is granted a license to the compiled code only",INTELLECTUAL_PROPERTY
+"system latency will not exceed 200ms for 95 percent of users",SERVICE
+"scheduled downtime is restricted to Sunday mornings",SERVICE
+"all data is encrypted at rest using AES-256 standards",SERVICE
+"support is provided via email only during business hours",SERVICE
+"the provider guarantees 100 percent power availability",SERVICE
+"users shall not use the service for DDoS attacks",USAGE
+"unauthorized data harvesting is strictly prohibited",USAGE
+"users must comply with the DMCA for all content uploads",USAGE
+"the platform may not be used to host malicious files",USAGE
+"excessive API calls will result in temporary IP blocking",USAGE
+"no warranty that the software is free from all viruses",WARRANTY
+"the provider disclaims any warranty for data integrity",WARRANTY
+"software results are not guaranteed to be error-free",WARRANTY
+"limited warranty applies only to the core software module",WARRANTY
+"no warranty of results is implied for marketing services",WARRANTY
+"this agreement shall be governed by the laws of India",GENERAL
+"official communication must be sent to the registered address",GENERAL
+"the contract is valid for a period of 24 months",GENERAL
+"failure to enforce a term does not constitute a waiver",GENERAL
+"this document is the complete and exclusive agreement",GENERAL
+"payment shall be released upon successful completion of milestone one",PAYMENT
+"client agrees to pay the remaining balance after final delivery",PAYMENT
+"fees are payable upon completion of services",PAYMENT
+"payment will be processed after approval of deliverables",PAYMENT
+"invoice amount must be settled within 15 days",PAYMENT
+"payment is conditional upon satisfactory performance",PAYMENT
+"failure to pay within the due date will result in late fees",PENALTY
+"a penalty of 10 percent shall apply to overdue payments",PENALTY
+"late payment will incur additional financial charges",PENALTY
+"non-payment will result in suspension of services",PENALTY
+"interest shall accrue on all outstanding balances",PENALTY
+"delayed payment will trigger a penalty clause",PENALTY
+"all work product developed under this agreement shall be owned by the client",INTELLECTUAL_PROPERTY
+"ownership of source code is transferred upon final payment",INTELLECTUAL_PROPERTY
+"the developer retains all rights to pre-existing intellectual property",INTELLECTUAL_PROPERTY
+"all copyrights and patents shall belong to the client",INTELLECTUAL_PROPERTY
+"no ownership rights are granted to the user under this agreement",INTELLECTUAL_PROPERTY
+"the software is licensed and not sold to the user",INTELLECTUAL_PROPERTY
+"the company retains full ownership of the platform and its components",INTELLECTUAL_PROPERTY
+"client is granted a limited license to use the software",INTELLECTUAL_PROPERTY
+"the provider guarantees uptime of 99.9 percent per month",SERVICE
+"latency shall not exceed 200 milliseconds under normal conditions",SERVICE
+"system availability shall be maintained at agreed levels",SERVICE
+"response time for critical incidents shall be under one hour",SERVICE
+"the service shall support a minimum of 5000 requests per second",SERVICE
+"downtime shall not exceed 2 hours per month",SERVICE
+"backup and recovery systems shall be maintained continuously",SERVICE
+"service levels are defined in accordance with SLA requirements",SERVICE
+"this agreement is entered into between the parties on the effective date",GENERAL
+"the parties agree to the following terms and conditions",GENERAL
+"this contract represents the entire agreement between the parties",GENERAL
+"any amendments must be made in writing and signed by both parties",GENERAL
+"this document outlines the responsibilities of both parties",GENERAL
+"the agreement shall be governed by applicable laws",GENERAL
+"notices shall be sent to the registered addresses of the parties",GENERAL
+"this agreement is legally binding upon execution",GENERAL
+"either party may terminate this agreement with written notice",TERMINATION
+"termination shall occur upon material breach of contract",TERMINATION
+"this agreement may be terminated at any time by mutual consent",TERMINATION
+"the contract shall automatically terminate after one year",TERMINATION
+"services will cease immediately upon termination",TERMINATION
+"all confidential information must be kept strictly private",CONFIDENTIALITY
+"the recipient shall not disclose proprietary data to third parties",CONFIDENTIALITY
+"confidentiality obligations shall survive termination",CONFIDENTIALITY
+"sensitive business information must not be shared externally",CONFIDENTIALITY
+"the company shall not be liable for indirect or consequential damages",LIABILITY
+"liability is limited to the total amount paid under this agreement",LIABILITY
+"no party shall be responsible for loss of profits",LIABILITY
+"the software is provided without any warranty of performance",WARRANTY
+"no guarantees are made regarding system reliability",WARRANTY
+"all implied warranties are hereby disclaimed",WARRANTY
+"maintenance services shall be provided on a regular basis",SERVICE
+"technical support shall be available during business hours",SERVICE
+"updates and patches will be deployed periodically",SERVICE
+"service uptime shall be monitored continuously",SERVICE
+"the company makes no guarantees regarding performance",WARRANTY
+"no warranty is provided for accuracy of results",WARRANTY
+"service is provided without guarantees of reliability",WARRANTY
+"all warranties are expressly disclaimed",WARRANTY
+"the contractor agrees to perform the services described",GENERAL
+"integration of third party services is included",GENERAL
+"the system will include payment gateway integration",GENERAL
