@@ -1,3 +1,5 @@
+import html
+
 def highlight_results(results):
     highlighted = []
 
@@ -9,8 +11,12 @@ def highlight_results(results):
         else:
             color = "🟢"
 
-        line = f"{color} [{r['risk']} | {r['confidence']}] {r['clause']}"
-        explanation = f"   → {r['explanation']}"
+        safe_clause = html.escape(str(r.get("clause", "")))
+        safe_explanation = html.escape(str(r.get("explanation", "")))
+        confidence_val = float(r.get("confidence", 0.0)) * 100
+
+        line = f"{color} [{r['risk']} | {confidence_val:.1f}%] {safe_clause}"
+        explanation = f"   → Explanation: {safe_explanation}"
 
         highlighted.append(line)
         highlighted.append(explanation)
